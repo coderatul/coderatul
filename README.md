@@ -12,7 +12,7 @@
 - 🤝 I’m looking for help with **GitHub Profile Readme Generator**
 
 - 👨 ‍💻 All of my projects are available at [github.com/coderatul](github.com/coderatul)
-- 📝 I regularly write articles on [dev.to](dev.to/coderatul)
+- 📝 I regularly write articles on [dev.to](https://dev.to/coderatul)
 - 💬 Ask me about **seo,python,freelancing**
 - 📫 How to reach me **atulkushwaha2008@gmail.com**
 - 📄 Know about my experiences [linktr.ee/programmeratul](linktr.ee/programmeratul)
