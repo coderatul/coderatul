@@ -15,7 +15,7 @@
 - 📝 I regularly write articles on [dev.to](https://dev.to/coderatul)
 - 💬 Ask me about **seo,python,freelancing**
 - 📫 How to reach me **atulkushwaha2008@gmail.com**
-- 📄 Know about my experiences [linktr.ee/programmeratul](https://linktr.ee/coderatul)
+- 📄 Know about my experiences [linktr.ee/coderatul](https://linktr.ee/coderatul)
 - ⚡ Fun fact **i think i know seo and python**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderatul&show_icons=true&locale=en&layout=compact" alt="coderatul"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderatul&show_icons=true&locale=en"alt="coderatul"/></p>
