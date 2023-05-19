@@ -21,8 +21,6 @@
 - 📫 How to reach me **atulkushwaha2008@gmail.com**
 - 📄 Know about my experiences [linktr.ee/coderatul](https://linktr.ee/coderatul)
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=coderatul&show_icons=true&locale=en" alt="coderatul" /></p>
-
 <div align="left">
 
 [![coderatul's GitHub | Stats](https://stats.quine.sh/coderatul/github?theme=dark)](https://quine.sh)
