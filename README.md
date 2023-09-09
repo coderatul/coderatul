@@ -1,8 +1,8 @@
 ![git header](https://user-images.githubusercontent.com/72141859/148687622-94605ec7-d997-4818-b3a5-9cab9d3750b3.png)
 <h1 align="center">Hi 👋, I'm Atul Kushwaha</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderatul&label=Profile%20views&color=0e75b6&style=flat" alt="coderatul"/></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderatul" alt="coderatul" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=coderatul&label=Profile%20views&color=0e75b6&style=flat" alt="coderatul"/></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +16,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderatul&show_icons=true&locale=en&layout=compact" alt="coderatul"/></p>
 
 - ⚡ Open-Source enthusiast
-- 🌱 I’m currently learning **Java, flask**
+- 🌱 I’m currently learning **Java, kotlin and devops**
 - 📝 I regularly write articles on [dev.to](https://dev.to/coderatul)
 - 📫 How to reach me **atulkushwaha2008@gmail.com**
 - 📄 Know about my experiences [linktr.ee/coderatul](https://linktr.ee/coderatul)
