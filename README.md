@@ -23,7 +23,9 @@
 
 <div align="left">
 
-[![coderatul's GitHub | Stats](https://stats.quine.sh/coderatul/github?theme=dark)](https://quine.sh)
+## Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 </div>
 
