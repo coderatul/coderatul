@@ -25,11 +25,11 @@
 
 ## Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Free custom domain for your projects 😉](https://core.forem.com/coderatul/free-custom-domain-for-your-projects-3j7j)
-- [create and deploy projects seemleasly](https://core.forem.com/coderatul/create-and-deploy-projects-seemleasly-43a)
-- [Host Lovable.dev Project on github pages 😺](https://core.forem.com/coderatul/host-lovabledev-project-on-github-pages-1c61)
-- [hey guys speed up your python code, especially with dynamic programming and recursive functions](https://core.forem.com/coderatul/hey-guys-speed-up-your-python-code-especially-with-dynamic-programming-and-recursive-functions-2hol)
-- [Cache in Python !](https://core.forem.com/coderatul/cache-in-python--18g)
+- [Free custom domain for your projects 😉](https://dev.to/coderatul/free-custom-domain-for-your-projects-3j7j)
+- [create and deploy projects seemleasly](https://dev.to/coderatul/create-and-deploy-projects-seemleasly-43a)
+- [Host Lovable.dev Project on github pages 😺](https://dev.to/coderatul/host-lovabledev-project-on-github-pages-1c61)
+- [hey guys speed up your python code, especially with dynamic programming and recursive functions](https://dev.to/coderatul/hey-guys-speed-up-your-python-code-especially-with-dynamic-programming-and-recursive-functions-2hol)
+- [Cache in Python !](https://dev.to/coderatul/cache-in-python--18g)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
